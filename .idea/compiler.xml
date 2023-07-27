@@ -9,6 +9,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Compressor_Decompressor" target="20" />
       <module name="GUI" target="20" />
     </bytecodeTargetLevel>
   </component>
