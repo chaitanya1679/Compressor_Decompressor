@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb345af9-440e-4b42-8b4d-9d9054d81720" name="Changes" comment="build compressor">
-      <change beforePath="$PROJECT_DIR$/src/COMP_DECOMP/decompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COMP_DECOMP/decompressor.java" afterDir="false" />
+    <list default="true" id="eb345af9-440e-4b42-8b4d-9d9054d81720" name="Changes" comment="build decompressor">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/AppFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/AppFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690455319293</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="build decompressor">
+      <created>1690456286793</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690456286793</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="perfected package" />
     <MESSAGE value="build compressor" />
-    <option name="LAST_COMMIT_MESSAGE" value="build compressor" />
+    <MESSAGE value="build decompressor" />
+    <option name="LAST_COMMIT_MESSAGE" value="build decompressor" />
   </component>
 </project>
