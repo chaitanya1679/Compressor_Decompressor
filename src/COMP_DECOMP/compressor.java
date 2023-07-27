@@ -23,7 +23,7 @@ public class compressor {
         fis.close();
     }
     public static void main(String[] args) throws IOException{
-        File path =new File("C:/Users/chait/Desktop/Comp_Decomp");
+        File path =new File("C:/Users/chait/Desktop/Comp_Decomp//TestFile");
         method(path);
     }
 }
