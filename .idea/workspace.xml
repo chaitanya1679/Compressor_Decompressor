@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb345af9-440e-4b42-8b4d-9d9054d81720" name="Changes" comment="build decompressor">
+    <list default="true" id="eb345af9-440e-4b42-8b4d-9d9054d81720" name="Changes" comment="completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compressor_Decompressor/src/COMP_DECOMP/compressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compressor_Decompressor/src/COMP_DECOMP/decompressor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compressor_Decompressor/src/GUI/AppFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compressor_Decompressor/src/GUI/main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GUI/AppFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/AppFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +27,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TC8oBRMOrFmI8Vwfejl8Sp4PYm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/chait/IdeaProjects/Compressor_Decompressor"
   }
 }]]></component>
@@ -36,6 +49,7 @@
       <recent name="C:\Users\chait\IdeaProjects\Compressor_Decompressor\src" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="perfected package">
       <created>1690453503489</created>
@@ -58,7 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690456286793</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="completed">
+      <created>1690458339729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690458339729</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb345af9-440e-4b42-8b4d-9d9054d81720" name="Changes" comment="completed" />
+      <created>1690535878799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690535878799</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +114,7 @@
     <MESSAGE value="perfected package" />
     <MESSAGE value="build compressor" />
     <MESSAGE value="build decompressor" />
-    <option name="LAST_COMMIT_MESSAGE" value="build decompressor" />
+    <MESSAGE value="completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed" />
   </component>
 </project>

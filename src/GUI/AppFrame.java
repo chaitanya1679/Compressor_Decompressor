@@ -18,11 +18,11 @@ public class AppFrame extends JFrame implements ActionListener {
         this.setDefaultCloseOperation(3);
 
         compressButton = new JButton("Compress");
-        compressButton.setBounds(20, 100, 150, 30);
+        compressButton.setBounds(20, 20, 150, 30);
         compressButton.addActionListener(this);
 
         decompressButton = new JButton("Decompress");
-        decompressButton.setBounds(250, 100, 150, 30);
+        decompressButton.setBounds(250, 20, 150, 30);
         decompressButton.addActionListener(this);
 
         this.add(compressButton);
