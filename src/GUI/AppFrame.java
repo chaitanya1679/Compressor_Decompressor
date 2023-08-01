@@ -15,20 +15,21 @@ public class AppFrame extends JFrame implements ActionListener {
     JButton decompressButton;
 
     AppFrame() {
+        this.setLayout(null);
         this.setDefaultCloseOperation(3);
 
         compressButton = new JButton("Compress");
-        compressButton.setBounds(20, 20, 150, 30);
+        compressButton.setBounds(160, 200, 150, 30);
         compressButton.addActionListener(this);
 
         decompressButton = new JButton("Decompress");
-        decompressButton.setBounds(250, 20, 150, 30);
+        decompressButton.setBounds(360, 200, 150, 30);
         decompressButton.addActionListener(this);
 
         this.add(compressButton);
         this.add(decompressButton);
-        this.setSize(1000, 500);
-        this.getContentPane().setBackground(Color.CYAN);
+        this.setSize(700, 500);
+        this.getContentPane().setBackground(Color.GREEN);
         this.setVisible(true);
     }
     @Override
